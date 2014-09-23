@@ -1,4 +1,4 @@
-package CMSI281-Homework.homework1.src.main.java.edu.cmsi;
+package CMSI281.hw2.src.main.java.edu.cmsi;
 
 public class RightTriangle{
 	private Point corner1, cornerb, cornerc;

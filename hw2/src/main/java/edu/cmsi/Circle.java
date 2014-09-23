@@ -1,4 +1,4 @@
-package edu.lmu.cmsi.nick.hw2;
+package CMSI281.hw2.src.main.java.edu.cmsi;
 
 public class Circle {
 	private Point center;

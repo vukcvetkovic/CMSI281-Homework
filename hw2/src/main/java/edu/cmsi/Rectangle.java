@@ -1,4 +1,4 @@
-package CMSI281-Homework.homework1.src.main.java.edu.cmsi;
+package CMSI281.hw2.src.main.java.edu.cmsi;
 
 public class Rectangle {
 	private double sidea, sideb, area;
